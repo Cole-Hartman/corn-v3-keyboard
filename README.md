@@ -1,6 +1,7 @@
 # crkbd-cherry-v3-build
 
-My journey down the rabbit hole.
+My journey down the rabbit hole.  
+Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/releases/tag/v3-final)
 
 ## Check List:
 - [ ] [Make parts list](#parts-list)
