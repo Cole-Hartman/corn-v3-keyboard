@@ -6,7 +6,7 @@ Using [foostan](https://github.com/Cole-Hartman/crkbd-cherry-v3-build/blob/main/
 
 ## Progress:
 - [ ] [Make parts list](#parts-list)
-  - [ ] [Building and ordering the PCB](#building-and-ordering-the-pcb)
+  - [X] [Building and ordering the PCB](#building-and-ordering-the-pcb)
 - [ ] [Install/Configure QMK](#installconfigure-qmk)
 - [ ] [Compile/Flash Firmware](#compileflash-firmware)
 - [ ] [Prepare the OLEDS](#prepare-oleds)
