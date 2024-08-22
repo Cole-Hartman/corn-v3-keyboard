@@ -4,7 +4,7 @@ My journey down the rabbit hole.
 
 ## Check List:
 - [ ] [Find/buy Parts](#parts-list)
-- [ ] [Ordering the PCB](#ordering-the-pcb)
+- [ ] [Building and ordering the PCB](#building-and-ordering-the-pcb)
 - [ ] [Install/Configure QMK](#installconfigure-qmk)
 - [ ] [Compile/Flash Firmware](#compileflash-firmware)
 - [ ] [Prepare the OLEDS](#prepare-oleds)
@@ -38,4 +38,11 @@ My journey down the rabbit hole.
 - [ ] 4x  [Spacers M2 10mm](https://www.aliexpress.com/item/32970573343.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 42x [Leds SK6812-mini-E](https://www.aliexpress.com/item/4000476037223.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 12x [Leds ws2812b](https://www.aliexpress.com/item/4000750610574.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
+
+## Building and ordering the PCB
+**Convert archived V3 KiCad project files to Gerber files**  
+[JLCPCB - How to generate Gerber and Drill files in KiCAD 8](https://jlcpcb.com/help/article/how-to-generate-gerber-and-drill-files-in-kicad-8)
+
+**Order the PCB from JLCPCB**
+
 
