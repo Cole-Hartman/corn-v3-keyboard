@@ -30,7 +30,7 @@ Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/
 |:-|:-|:-|:-|
 | PCB | 1x | [Corne PCB Printed using JLCPCB](https://jlcpcb.com/) | $40 |
 | Top Plate 1.5-3mm | 2x |  Printed at school - [.stl file]() | |
-| Top Plate | 2x | Printed at school - [.stl file]() | |
+| Bottom Plate | 2x | Printed at school - [.stl file]() | |
 | OLED Cover | 2x | Printed at school? | |
 | OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $0.30 |
 | Keycaps | 42x | | $ |
