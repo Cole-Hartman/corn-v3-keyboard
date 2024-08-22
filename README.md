@@ -4,6 +4,11 @@ My journey down the rabbit hole.
 Based off [foostan's archived V3 Corne release](https://github.com/foostan/crkbd/releases/tag/v3-final)  
 Using [foostan](https://github.com/Cole-Hartman/crkbd-cherry-v3-build/blob/main/foostan-build-guide.md)'s and [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s build guides
 
+**You should follow this guide if you...**  
+- Want a CRKBD V3 3x6 Cherry hot-swap keyboard
+- Includes OLED
+- No RBG or Bluetooth in this build
+
 ## Progress:
 - [ ] [Make parts list](#parts-list)
   - [X] [Building and ordering the PCB](#building-and-ordering-the-pcb)
