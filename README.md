@@ -24,7 +24,7 @@ Using [foostan](https://github.com/Cole-Hartman/crkbd-cherry-v3-build/blob/main/
 **Keyboard**
 | Name | Count | Details | Price |
 |:-|:-|:-|:-|
-| PCB | 1x | [Corne PCB Printed on JLCPCB](https://jlcpcb.com/) | $40 |
+| PCB | 1x | [Corne PCB Printed using JLCPCB](https://jlcpcb.com/) | $40 |
 | Case | 1x | Printed at school - [.stl file]() | $ |
 | Keycaps | 42x | | $ |
 | Switches | 42x | | $ |
