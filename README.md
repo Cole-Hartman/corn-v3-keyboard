@@ -31,18 +31,21 @@ Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/
 | PCB | 1x | [Corne PCB Printed using JLCPCB](https://jlcpcb.com/) | $40 |
 | Top Plate 1.5-3mm | 2x |  Printed at school - [.stl file]() | |
 | Top Plate | 2x | Printed at school - [.stl file]() | |
-| OLED Cover | 2x | |
+| OLED Cover | 2x | Printed at school? | |
+| OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $0.30 |
 | Keycaps | 42x | | $ |
 | Switches | 42x | | $ |
-| OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $0.30 |
+| Microcontroller | 2x | [TZT Pro Micro ATmega32U4 5V 16MHz Original Chip Type-C](https://www.aliexpress.us/item/2251832581993895.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $3 |
 | DIODES | 100x | [1N4148W T4 SOD-123](https://www.aliexpress.us/item/2251832735176193.html?spm=a2g0o.cart.0.0.624d38dayf8uXk&mp=1&gatewayAdapt=glo2usa) | $1 |
 | Hot Swaps | 50x | [Kailh Hot-swappable PCB socket Hot Plug for Gateron Outemu Cherry MX Switches Mechanical Keyboard](https://www.aliexpress.us/item/2255800865526224.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $8 |
-| Microcontroller | 2x | [TZT Pro Micro ATmega32U4 5V 16MHz Original Chip Type-C](https://www.aliexpress.us/item/2251832581993895.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $3 |
 | TRRS Cable 4 pole | 1x | [Rallonge Jack 3.5mm 4 3 Pole TRRS to TRRS](https://www.aliexpress.us/item/3256805991501373.html?spm=a2g0o.productlist.main.1.10596d99xhZTwL&algo_pvid=9dde26da-8622-45dc-8815-b85b16e86c14&algo_exp_id=9dde26da-8622-45dc-8815-b85b16e86c14-0&pdp_npi=4%40dis%21USD%214.45%210.99%21%21%2131.54%217.01%21%402101c5b117242987081857098e0582%2112000036149303822%21sea%21US%212778608228%21ABX&curPageLogUid=1JhzGCK9fNj9&utparam-url=scene%3Asearch%7Cquery_from%3A) | $3 |
-| Screws | 50x | For case - [M2.0 6mm](https://www.aliexpress.us/item/3256805432431543.html?spm=a2g0o.productlist.main.7.71d74614yyKWon&algo_pvid=6ee9a92e-cdc7-460a-af3b-ac2b0e62eb9a&aem_p4p_detail=202408212153242149051534836220006711131&algo_exp_id=6ee9a92e-cdc7-460a-af3b-ac2b0e62eb9a-3&pdp_npi=4%40dis%21USD%211.02%210.96%21%21%217.24%216.81%21%402103094f17243024043121319e1b2a%2112000033767212213%21sea%21US%212778608228%21ABX&curPageLogUid=qknRdn84mFma&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202408212153242149051534836220006711131_1) | $1 |
-| Spacer M2 7.5mm | 10x | For case - | $ |
-| Spacer M2 9mm | 10x | For case - | $ |
-| Rubber feet | | | |
+| TRRS jack | 2x | [TRRS 3.5 MM Audio Jack Connector](https://www.aliexpress.us/item/2251832843150354.html?spm=a2g0o.productlist.main.1.48111de5AJ9NKs&algo_pvid=5dba46f3-603a-4bae-a23b-4ff6e264e75a&algo_exp_id=5dba46f3-603a-4bae-a23b-4ff6e264e75a-0&pdp_npi=4%40dis%21USD%211.51%210.99%21%21%211.51%210.99%21%402101fb1717243074242777122e20ab%2112000038224902314%21sea%21US%212778608228%21ABX&curPageLogUid=ZP6AutQHqCPa&utparam-url=scene%3Asearch%7Cquery_from%3A) | $2 |
+| Screw M2 4mm | 50x | [For case](https://www.aliexpress.us/item/3256805432431543.html?spm=a2g0o.productlist.main.7.71d74614yyKWon&algo_pvid=6ee9a92e-cdc7-460a-af3b-ac2b0e62eb9a&aem_p4p_detail=202408212153242149051534836220006711131&algo_exp_id=6ee9a92e-cdc7-460a-af3b-ac2b0e62eb9a-3&pdp_npi=4%40dis%21USD%211.02%210.96%21%21%217.24%216.81%21%402103094f17243024043121319e1b2a%2112000033767212213%21sea%21US%212778608228%21ABX&curPageLogUid=qknRdn84mFma&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202408212153242149051534836220006711131_1) | $1 |
+| Spacer M2 7mm | 10x | For case - [Spacing Screw Hexagon Copper Female PCB Pillars Bolt M2](https://www.aliexpress.us/item/3256805863280885.html?spm=a2g0o.productlist.main.31.81d0187fZbMQZZ&algo_pvid=6d868c51-1d17-4027-9621-7291015036ed&aem_p4p_detail=2024082122034312246280635684690006792288&algo_exp_id=6d868c51-1d17-4027-9621-7291015036ed-15&pdp_npi=4%40dis%21USD%211.73%210.99%21%21%211.73%210.99%21%402101f00117243030236031082e3709%2112000035491390234%21sea%21US%212778608228%21ABX&curPageLogUid=wCfdJ6WOajxb&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024082122034312246280635684690006792288_4) | $2 |
+| Spacer M2 9mm | 10x | For case - [Spacing Screw Hexagon Copper Female PCB Pillars Bolt M2](https://www.aliexpress.us/item/3256805863280885.html?spm=a2g0o.productlist.main.31.81d0187fZbMQZZ&algo_pvid=6d868c51-1d17-4027-9621-7291015036ed&aem_p4p_detail=2024082122034312246280635684690006792288&algo_exp_id=6d868c51-1d17-4027-9621-7291015036ed-15&pdp_npi=4%40dis%21USD%211.73%210.99%21%21%211.73%210.99%21%402101f00117243030236031082e3709%2112000035491390234%21sea%21US%212778608228%21ABX&curPageLogUid=wCfdJ6WOajxb&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024082122034312246280635684690006792288_4) | $2 |
+| Pin headers | 4x | 2.54mm Pin Header Female Single Row 40 | |
+| Pin sockets | 4x | | |
+| Rubber feet | 8x | [Self Adhesive Round Rubber Bumpers](https://www.aliexpress.us/item/3256803421259871.html?spm=a2g0o.productlist.main.3.20532efcADR9z1&algo_pvid=65a8005d-cd94-42ca-a017-fcf571b98ffc&algo_exp_id=65a8005d-cd94-42ca-a017-fcf571b98ffc-1&pdp_npi=4%40dis%21USD%211.59%210.99%21%21%211.59%210.99%21%402103010b17243068517578144e2184%2112000026474338043%21sea%21US%212778608228%21ABX&curPageLogUid=nqeudm8T1Uhl&utparam-url=scene%3Asearch%7Cquery_from%3A) | $2 |
 | Round Copper Wire | 1M | [New polyurethane enameled round copper wire 0.55mm](https://www.aliexpress.us/item/2255800595589740.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $ |
 
 **Tools**
@@ -53,12 +56,7 @@ Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/
 ---
 
 - [ ] 4x  [2.54mm Pin Header Female Single Row 40](https://www.aliexpress.com/item/32817226478.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 2x  [PJ320D 3.5MM Headphone TRRS Jack Socket Female Connector](https://www.aliexpress.com/item/32785315917.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 2x  [Micro Switch Push Button 3.5X6.0X4.3mm 1136-4.3 DIP Black](https://www.aliexpress.com/item/1068908059.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 10x [Spacers M2 7mm](https://www.aliexpress.com/item/32970573343.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 4x  [Spacers M2 10mm](https://www.aliexpress.com/item/32970573343.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 42x [Leds SK6812-mini-E](https://www.aliexpress.com/item/4000476037223.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 12x [Leds ws2812b](https://www.aliexpress.com/item/4000750610574.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 
 ## Building and ordering the PCB
 **Convert archived V3 KiCad project files to Gerber files**  
