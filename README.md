@@ -21,7 +21,7 @@ Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/r
 
 ## Parts list
 
-- [ ] 1x  Corne PCBs [Printed mine on jlcpcb](https://jlcpcb.com/)
+- [ ] 1x  Corne PCB [Printed on JLCPCB](https://jlcpcb.com/) - $27
 - [ ] 1x  Corne Case [Laser cut mine on Brazil](https://www.acrilicos60.com.br/)
 - [ ] 42x Keycaps - 1u x 40, 1.5u x 2
 - [ ] 2x  [Pro Micro ATmega32U4 5V/16MHz Module controller Mega32U4 Mini leonardo for Arduino with the bootloader](https://www.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
