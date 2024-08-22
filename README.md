@@ -23,8 +23,9 @@ Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/r
 **Keyboard**
 | Name | Count | Details | Price |
 |:-|:-|:-|:-|
-| PCB | 1x | [Corne PCB Printed on JLCPCB](https://jlcpcb.com/) | $27 |
-| OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $ |
+| PCB | 1x | [Corne PCB Printed on JLCPCB](https://jlcpcb.com/) | $40 |
+| OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $0.30 |
+| DIODES | 100x | [1N4148W T4 SOD-123](https://www.aliexpress.us/item/2251832735176193.html?spm=a2g0o.cart.0.0.624d38dayf8uXk&mp=1&gatewayAdapt=glo2usa) | $1 |
 
 **Tools**
 | Name | Count | Details | Price |
@@ -37,7 +38,6 @@ Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/r
 - [ ] 42x Keycaps - 1u x 40, 1.5u x 2
 - [ ] 2x  [Pro Micro ATmega32U4 5V/16MHz Module controller Mega32U4 Mini leonardo for Arduino with the bootloader](https://www.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 42x [Kailh Hot-swappable PCB Socket Sip For Mechanical Keyboard](https://www.aliexpress.com/item/4001051840976.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 42x [SMD diodes 1N4148 SOD-123](https://www.aliexpress.com/item/32916398082.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 1M  [Round Copper Wire 0.5mm](https://www.aliexpress.com/item/4000781904492.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 4x  [2.54mm Pin Header Female Single Row 40](https://www.aliexpress.com/item/32817226478.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 2x  [PJ320D 3.5MM Headphone TRRS Jack Socket Female Connector](https://www.aliexpress.com/item/32785315917.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
