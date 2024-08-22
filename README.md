@@ -3,7 +3,7 @@
 My journey down the rabbit hole.
 
 ## Check List:
-- [ ] [Find / buy Parts](#parts-list)
+- [ ] [Make parts list](#parts-list)
   - [ ] [Building and ordering the PCB](#building-and-ordering-the-pcb)
 - [ ] [Install/Configure QMK](#installconfigure-qmk)
 - [ ] [Compile/Flash Firmware](#compileflash-firmware)
