@@ -19,7 +19,6 @@ My journey down the rabbit hole.
 - [ ] [Mount the case](#mount-the-case)
 
 ## Parts list
-[Original](https://github.com/foostan/crkbd/blob/master/corne-cherry/doc/v3/buildguide_jp.md)
 
 - [ ] 1x  Corne PCBs [Printed mine on jlcpcb](https://jlcpcb.com/)
 - [ ] 1x  Corne Case [Laser cut mine on Brazil](https://www.acrilicos60.com.br/)
