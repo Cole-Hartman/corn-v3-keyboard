@@ -1,7 +1,8 @@
 # crkbd-cherry-v3-build
 
 My journey down the rabbit hole.  
-Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/releases/tag/v3-final)
+Based off [foostan's archived V3 release](https://github.com/foostan/crkbd/releases/tag/v3-final)  
+Using [foostan](https://github.com/Cole-Hartman/crkbd-cherry-v3-build/blob/main/foostan-build-guide.md)'s and [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s build guides
 
 ## Check List:
 - [ ] [Make parts list](#parts-list)
