@@ -20,12 +20,22 @@ Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/r
 - [ ] [Mount the case](#mount-the-case)
 
 ## Parts list
+**Keyboard**
+| Name | Count | Details | Price |
+|:-|:-|:-|:-|
+| PCB | 1x | [Corne PCB Printed on JLCPCB](https://jlcpcb.com/) | $27 |
+| OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $ |
 
-- [ ] 1x  Corne PCB [Printed on JLCPCB](https://jlcpcb.com/) - $27
+**Tools**
+| Name | Count | Details | Price |
+|:-|:-|:-|:-|
+| Soldering Kit | 1x | [Kit](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=38MPRDWM5JBD2&dib=eyJ2IjoiMSJ9.bN2ArPTpgQRijAd577UAx2lb0lxJe9OJfvIrJ6Bhu94uZRdZ0QiOR1-KaozOEwvqRFJO6PmfGYfSgNX8FCBUUr7tF74wEkvH2oPiK_vOUmZ4kcyFUs1GxnhlBGenUVRiocpGicXoasYk4pn2j1hmV_uITJfg-8F86EbmyExxmN_qOA8LUu2XNpdrcps8dFHy3x6Vsxs0nPWFvIyXwVel8fIs0YaS7FLhzvMPE6c5Bm9Sv0gDM9kTUX6UC23l9WSCI8h0VyGKKpOtbs7h1YVjf3JVk5e2DfrIKZ26WudrKVE.zCvhrofR5D4P22aA3xQqujJoRpbFraz-JM9WFvdwxwk&dib_tag=se&keywords=soldering+kit&qid=1724294807&sprefix=soldering+ki%2Caps%2C181&sr=8-5#customerReviews) | $13 |
+
+---
+
 - [ ] 1x  Corne Case [Laser cut mine on Brazil](https://www.acrilicos60.com.br/)
 - [ ] 42x Keycaps - 1u x 40, 1.5u x 2
 - [ ] 2x  [Pro Micro ATmega32U4 5V/16MHz Module controller Mega32U4 Mini leonardo for Arduino with the bootloader](https://www.aliexpress.com/item/32768308647.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
-- [ ] 2x  [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 42x [Kailh Hot-swappable PCB Socket Sip For Mechanical Keyboard](https://www.aliexpress.com/item/4001051840976.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 42x [SMD diodes 1N4148 SOD-123](https://www.aliexpress.com/item/32916398082.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
 - [ ] 1M  [Round Copper Wire 0.5mm](https://www.aliexpress.com/item/4000781904492.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA)
