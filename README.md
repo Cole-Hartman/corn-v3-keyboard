@@ -44,7 +44,7 @@ Building from [foostan's archived V3 release](https://github.com/foostan/crkbd/r
 **Convert archived V3 KiCad project files to Gerber files**  
 [JLCPCB - How to generate Gerber and Drill files in KiCAD 8](https://jlcpcb.com/help/article/how-to-generate-gerber-and-drill-files-in-kicad-8)
 
-**Order the PCB from JLCPCB**
+**Order the PCB from JLCPCB**  
 [GERBER Files](./GERBER-v3-cherry.zip)
 
 
