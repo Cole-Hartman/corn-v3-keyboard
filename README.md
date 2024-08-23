@@ -34,7 +34,7 @@ Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/
 | PCB | 1x | [Corne PCB Printed using JLCPCB](https://jlcpcb.com/) | $40 | X
 | Top Plate | 2x | 1.5-3mm - [Files](https://makerworld.com/en/models/222869#profileId-266205) - Printed at school | $ |
 | Bottom Plate | 2x | [Files](https://makerworld.com/en/models/222869#profileId-266205) - Printed at school | $ |
-| OLED Cover | 2x | [One option](https://www.thingiverse.com/thing:6447342) | $ |
+| OLED Cover | 2x | [Print at school](https://www.thingiverse.com/thing:6447342) or [Typeractive](https://typeractive.xyz/products/corne-display-cover) | $ |
 | OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $0.30 | X |
 | Microcontroller | 2x | [TZT Pro Micro ATmega32U4 5V 16MHz Original Chip Type-C](https://www.aliexpress.us/item/2251832581993895.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $3 | X |
 | Keycaps | 42x | Local | $0 | X |
