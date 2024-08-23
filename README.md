@@ -1,7 +1,7 @@
 # crkbd-cherry-v3-build
 
 My journey down the rabbit hole.  
-Based off [foostan's archived V3 Corne release](https://github.com/foostan/crkbd/releases/tag/v3-final)  
+Based off [foostan's V3 Corne](https://github.com/foostan/crkbd/releases/tag/v3-final)  
 Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/buildguide_en.md)'s and [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s build guides
 
 **Build**  
