@@ -54,9 +54,9 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 | Rubber feet | 8x | [Self Adhesive Round Rubber Bumpers](https://www.aliexpress.us/item/3256803421259871.html?spm=a2g0o.productlist.main.3.20532efcADR9z1&algo_pvid=65a8005d-cd94-42ca-a017-fcf571b98ffc&algo_exp_id=65a8005d-cd94-42ca-a017-fcf571b98ffc-1&pdp_npi=4%40dis%21USD%211.59%210.99%21%21%211.59%210.99%21%402103010b17243068517578144e2184%2112000026474338043%21sea%21US%212778608228%21ABX&curPageLogUid=nqeudm8T1Uhl&utparam-url=scene%3Asearch%7Cquery_from%3A) | $2 | X |
 
 **Tools**
-| Name | Count | Details | Price |
-|:-|:-|:-|:-|
-| Soldering Kit | 1x | [Kit](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=38MPRDWM5JBD2&dib=eyJ2IjoiMSJ9.bN2ArPTpgQRijAd577UAx2lb0lxJe9OJfvIrJ6Bhu94uZRdZ0QiOR1-KaozOEwvqRFJO6PmfGYfSgNX8FCBUUr7tF74wEkvH2oPiK_vOUmZ4kcyFUs1GxnhlBGenUVRiocpGicXoasYk4pn2j1hmV_uITJfg-8F86EbmyExxmN_qOA8LUu2XNpdrcps8dFHy3x6Vsxs0nPWFvIyXwVel8fIs0YaS7FLhzvMPE6c5Bm9Sv0gDM9kTUX6UC23l9WSCI8h0VyGKKpOtbs7h1YVjf3JVk5e2DfrIKZ26WudrKVE.zCvhrofR5D4P22aA3xQqujJoRpbFraz-JM9WFvdwxwk&dib_tag=se&keywords=soldering+kit&qid=1724294807&sprefix=soldering+ki%2Caps%2C181&sr=8-5#customerReviews) | $6.5 |
+| Name | Count | Details | Price | Buy
+|:-|:-|:-|:-|:-|
+| Soldering Kit | 1x | [Kit](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=38MPRDWM5JBD2&dib=eyJ2IjoiMSJ9.bN2ArPTpgQRijAd577UAx2lb0lxJe9OJfvIrJ6Bhu94uZRdZ0QiOR1-KaozOEwvqRFJO6PmfGYfSgNX8FCBUUr7tF74wEkvH2oPiK_vOUmZ4kcyFUs1GxnhlBGenUVRiocpGicXoasYk4pn2j1hmV_uITJfg-8F86EbmyExxmN_qOA8LUu2XNpdrcps8dFHy3x6Vsxs0nPWFvIyXwVel8fIs0YaS7FLhzvMPE6c5Bm9Sv0gDM9kTUX6UC23l9WSCI8h0VyGKKpOtbs7h1YVjf3JVk5e2DfrIKZ26WudrKVE.zCvhrofR5D4P22aA3xQqujJoRpbFraz-JM9WFvdwxwk&dib_tag=se&keywords=soldering+kit&qid=1724294807&sprefix=soldering+ki%2Caps%2C181&sr=8-5#customerReviews) | $6.5 | X |
 | Masking Tape | 1x | | $ |
 
 ## Building and ordering the PCB
