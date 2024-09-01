@@ -32,13 +32,13 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 **Keyboard**
 | Name | Count | Details | Price | Buy | Arrived |
 |:-|:-|:-|:-| :-| :-|
-| PCB | 1x | [Corne PCB Printed using JLCPCB](https://jlcpcb.com/) | $40 | X |
-| Top Plate | 2x | 1.5-3mm - [Files](https://makerworld.com/en/models/222869#profileId-266205) - Printed at school | $6 | X |
-| Bottom Plate | 2x | [Files](https://makerworld.com/en/models/222869#profileId-266205) - Printed at school | $2 | X |
-| OLED Cover | 2x | [Typeractive](https://typeractive.xyz/products/corne-display-cover) | $10 | X | 
+| PCB | 1x | [Corne PCB Printed using JLCPCB](https://jlcpcb.com/) | $40 | X | X |
+| Top Plate | 2x | 1.5-3mm - [Files](https://makerworld.com/en/models/222869#profileId-266205) - Printed at school | $6 | X | X |
+| Bottom Plate | 2x | [Files](https://makerworld.com/en/models/222869#profileId-266205) - Printed at school | $2 | X | X |
+| OLED Cover | 2x | [Typeractive](https://typeractive.xyz/products/corne-display-cover) | $10 | X | X |
 | OLED | 2x | [OLED 128X32 OLED Display Module 0.91" IIC Communicate for ardunio](https://www.aliexpress.com/item/32777216785.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA) | $0.30 | X | X |
 | Microcontroller | 2x | [TZT Pro Micro ATmega32U4 5V 16MHz Original Chip Type-C](https://www.aliexpress.us/item/2251832581993895.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $3 | X |
-| Keycaps | 42x | Local | $0 | X |
+| Keycaps | 42x | Local | $0 | X | X |
 | Switches | 42x | Only compatible with MX style - [Cherry MX Black](https://www.aliexpress.us/item/3256806069646359.html?spm=a2g0o.productlist.main.1.4a497310hnQLCq&algo_pvid=73237be8-dd90-41c8-bd4a-edbb61f7318c&algo_exp_id=73237be8-dd90-41c8-bd4a-edbb61f7318c-0&pdp_npi=4%40dis%21USD%217.83%210.99%21%21%2155.50%216.98%21%402101c5b217243508666094488e10c5%2112000036489552473%21sea%21US%212778608228%21ABX&curPageLogUid=zhhR89q5ZmTu&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-review) | $15 | X |
 | DIODES | 100x | [1N4148W T4 SOD-123](https://www.aliexpress.us/item/2251832735176193.html?spm=a2g0o.cart.0.0.624d38dayf8uXk&mp=1&gatewayAdapt=glo2usa) | $1 | X | X |
 | Hot Swaps | 50x | [Kailh Hot-swappable PCB socket Hot Plug for Gateron Outemu Cherry MX Switches Mechanical Keyboard](https://www.aliexpress.us/item/2255800865526224.html?spm=a2g0s.9042311.0.0.27424c4dlrgRjA&gatewayAdapt=glo2usa4itemAdapt) | $8 | X |
@@ -54,10 +54,10 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 | Rubber feet | 8x | [Self Adhesive Round Rubber Bumpers](https://www.aliexpress.us/item/3256803421259871.html?spm=a2g0o.productlist.main.3.20532efcADR9z1&algo_pvid=65a8005d-cd94-42ca-a017-fcf571b98ffc&algo_exp_id=65a8005d-cd94-42ca-a017-fcf571b98ffc-1&pdp_npi=4%40dis%21USD%211.59%210.99%21%21%211.59%210.99%21%402103010b17243068517578144e2184%2112000026474338043%21sea%21US%212778608228%21ABX&curPageLogUid=nqeudm8T1Uhl&utparam-url=scene%3Asearch%7Cquery_from%3A) | $2 | X |
 
 **Tools**
-| Name | Count | Details | Price | Buy
-|:-|:-|:-|:-|:-|
-| Soldering Kit | 1x | [Kit](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=38MPRDWM5JBD2&dib=eyJ2IjoiMSJ9.bN2ArPTpgQRijAd577UAx2lb0lxJe9OJfvIrJ6Bhu94uZRdZ0QiOR1-KaozOEwvqRFJO6PmfGYfSgNX8FCBUUr7tF74wEkvH2oPiK_vOUmZ4kcyFUs1GxnhlBGenUVRiocpGicXoasYk4pn2j1hmV_uITJfg-8F86EbmyExxmN_qOA8LUu2XNpdrcps8dFHy3x6Vsxs0nPWFvIyXwVel8fIs0YaS7FLhzvMPE6c5Bm9Sv0gDM9kTUX6UC23l9WSCI8h0VyGKKpOtbs7h1YVjf3JVk5e2DfrIKZ26WudrKVE.zCvhrofR5D4P22aA3xQqujJoRpbFraz-JM9WFvdwxwk&dib_tag=se&keywords=soldering+kit&qid=1724294807&sprefix=soldering+ki%2Caps%2C181&sr=8-5#customerReviews) | $9.8 | X |
-| Masking Tape | 1x | | $ |
+| Name | Count | Details | Price | Buy | Arrived |
+|:-|:-|:-|:-|:-|:-|
+| Soldering Kit | 1x | [Kit](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=38MPRDWM5JBD2&dib=eyJ2IjoiMSJ9.bN2ArPTpgQRijAd577UAx2lb0lxJe9OJfvIrJ6Bhu94uZRdZ0QiOR1-KaozOEwvqRFJO6PmfGYfSgNX8FCBUUr7tF74wEkvH2oPiK_vOUmZ4kcyFUs1GxnhlBGenUVRiocpGicXoasYk4pn2j1hmV_uITJfg-8F86EbmyExxmN_qOA8LUu2XNpdrcps8dFHy3x6Vsxs0nPWFvIyXwVel8fIs0YaS7FLhzvMPE6c5Bm9Sv0gDM9kTUX6UC23l9WSCI8h0VyGKKpOtbs7h1YVjf3JVk5e2DfrIKZ26WudrKVE.zCvhrofR5D4P22aA3xQqujJoRpbFraz-JM9WFvdwxwk&dib_tag=se&keywords=soldering+kit&qid=1724294807&sprefix=soldering+ki%2Caps%2C181&sr=8-5#customerReviews) | $9.8 | X | X |
+| Masking Tape | 1x | | $ | X | X |
 
 ## Building and ordering the PCB
 **Convert archived V3 KiCad project files to Gerber files**  
