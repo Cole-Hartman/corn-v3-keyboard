@@ -2,8 +2,8 @@
 
 My journey down the rabbit hole.  
 Based off [foostan's V3 Corne](https://github.com/foostan/crkbd/releases/tag/v3-final)  
-Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/buildguide_en.md)'s, [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s, and [Josean](https://www.youtube.com/watch?v=vzDTdLaAzXc)'s build guides  
-Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [Joe Scotto](https://www.youtube.com/watch?v=FJgvi7WShxY&t=11s)
+Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/buildguide_en.md)'s and [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s build guides  
+Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [Joe Scotto](https://www.youtube.com/watch?v=FJgvi7WShxY&t=11s), [Josean](https://www.youtube.com/watch?v=vzDTdLaAzXc)
 
 **Build**  
 - CRKBD V3 3x6 Cherry hot-swap keyboard
