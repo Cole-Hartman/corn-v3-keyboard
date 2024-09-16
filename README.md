@@ -1,4 +1,4 @@
-# crkbd-cherry-v3-build
+# crkbd (corn keyboard) cherry v3 build
 
 Based off [foostan's V3 Corne](https://github.com/foostan/crkbd/releases/tag/v3-final)  
 Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/buildguide_en.md)'s and [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s build guides  
