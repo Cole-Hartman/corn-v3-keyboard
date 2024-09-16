@@ -1,6 +1,5 @@
 # crkbd-cherry-v3-build
 
-My journey down the rabbit hole.  
 Based off [foostan's V3 Corne](https://github.com/foostan/crkbd/releases/tag/v3-final)  
 Using [foostan](https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v3/buildguide_en.md)'s and [rafaeldelboni](https://github.com/rafaeldelboni/buildlogs/blob/main/crkbd-v3.md#compileflash-firmware)'s build guides  
 Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [Joe Scotto](https://www.youtube.com/watch?v=FJgvi7WShxY&t=11s), [Josean](https://www.youtube.com/watch?v=vzDTdLaAzXc)
@@ -10,8 +9,7 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 - Includes OLED
 - No RBG or Bluetooth
 
-**Inspo**  
-<img src="./assets/inspo.jpg" width="500">
+<img src="./assets/finalproduct.jpg" width="300">
 
 ## Contents
 - [X] [Make parts list](#parts-list)
@@ -20,7 +18,6 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 - [X] [Solder Hot Swaps](#solder-hot-swaps)
 - [X] [Install Top Components](#install-top-components)
 - [X] [Compile and Flash Firmware](#compile-and-flash-firmware)
-- [Final Product](#final-product)
 - [Mistakes I made](#mistakes-i-made)
 
 ## Parts list
@@ -78,11 +75,8 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 <a href="https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3">QMK Toolbox</a>
 <p>Download software (windows or mac), hit reset button, flash.</p>
 <p>Unplug, plug in other half, hit reset button, flash.</p>
-<img src="./assets/firmware.jpg" width="300" />
-
-## Final Product
 <p>Done!</p>
-<img src="./assets/finalproduct.jpg" width="300" />
+<img src="./assets/firmware.jpg" width="300" />
 
 ## Mistakes I made
 <p>This was my first time soldering so definitely do a better job then I did or you will run into some issues. I had a short across my keyboard due to these two pins being soldered together.</p>
