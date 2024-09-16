@@ -18,7 +18,7 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 - [X] [Solder Hot Swaps](#solder-hot-swaps)
 - [X] [Install Top Components](#install-top-components)
 - [X] [Compile and Flash Firmware](#compile-and-flash-firmware)
-- [Mistakes I made](#mistakes-i-made)
+- [Warning](#warning)
 
 ## Parts list
 **Keyboard**
@@ -78,8 +78,8 @@ Helpful videos: [rafaeldelboni](https://www.youtube.com/watch?v=O49hrYDCL3o), [J
 <p>Done!</p>
 <img src="./assets/firmware.jpg" width="300" />
 
-## Mistakes I made
+## Warning
 <p>This was my first time soldering so definitely do a better job then I did or you will run into some issues. I had a short across my keyboard due to these two pins being soldered together.</p>
 <img src="./assets/short.jpg" width="300" />
-<p>Additionally, this is not a mistake but my first PCB was not working properly and after thorough testing I had to remake the right half.<p>
+<p>Additionally, my first PCB was not working properly unfortunately and after thorough testing I had to remake the right half.<p>
 
